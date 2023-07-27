@@ -1,0 +1,5 @@
+setup.py
+Paquete_EZEQUIEL.egg-info/PKG-INFO
+Paquete_EZEQUIEL.egg-info/SOURCES.txt
+Paquete_EZEQUIEL.egg-info/dependency_links.txt
+Paquete_EZEQUIEL.egg-info/top_level.txt
